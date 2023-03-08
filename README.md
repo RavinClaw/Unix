@@ -1,10 +1,9 @@
 # Unix
+### The Python Virtual Machine that runs completely off your computer
 
-# Project has been put on Hold, Until Further Notice
-##### Sorry for the inconvenience, work is currently underway
-As of current the Unix Project is on hold. no files will be added, if you me to add anything personaly you can suggest your requests at my twitter @RavinClawYT, just tag me, I will responed when were I can.
+###### Due to limitations this virtual machine does not run with binary but instead it creates an environment that only the program can understand making your computer safe unless you find a way to run those file using some other program that replecates how the vm interacts with the packages
 
 
-# Project Updates
-##### Updates have been canceled until further notice
-##### Please note I am still working on this and files will be updated soon
+
+### Updates
+[08/03/2023 : 18:16] Update this virtual machine is now coming into beta, files will be released soon. still working on how packages are installed into the program.
