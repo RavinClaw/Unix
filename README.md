@@ -9,3 +9,7 @@
 [08/03/2023 : 21:29] Beta 1.0 Files Uploaded (First Upload)
 
 [08/03/2023 : 18:16] Update this virtual machine is now coming into beta, files will be released soon. still working on how packages are installed into the program.
+
+
+### PLEASE READ THIS
+Please read this. currently the sudo install does not work, it cant validate the website its downloading from. here github? yeah. curl... So it currently is down.
